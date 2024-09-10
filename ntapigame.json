@@ -1,0 +1,12 @@
+{
+    "clientVersionCode": 1,
+    "gameFilesVersionCode": 1, 
+    "URL_GAME_FILES" : "http://wh9975.web3.maze-host.ru/game_luxuria.zip",
+    "URL_GAME_FILES_UPD" : "https://a0820059.xsph.ru",
+    "URL_VK": "https://vk.com/ethereum.mobile",
+    "URL_DISCORD": "https://discord.gg/",
+    "URL_YOUTUBE": "https://t.me/",
+    "URL_FORUM": "",
+    "URL_DONATE": "https://ru-state.online/donate",
+    "URL_CLIENT": "https://api.ru-state.online/test/client.apk" 
+}
