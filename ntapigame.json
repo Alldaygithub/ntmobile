@@ -3,161 +3,161 @@
     {
       "name": "anim.img",
       "size": 10942464,
-      "path": "anim/anim.img",
+      "path": "anim",
       "url": "http://gta-raygus.com/API/MOBILE/files/anim/anim.img",
       "gpu": "all"
     },
     {
       "name": "ped.ifp",
       "size": 1433248,
-      "path": "anim/ped.ifp",
+      "path": "anim",
       "url": "http://gta-raygus.com/API/MOBILE/files/anim/ped.ifp",
       "gpu": "all"
     },
     {
       "name": "AudioEventHistory.txt",
       "size": 99580,
-      "path": "audio/CONFIG/AudioEventHistory.txt",
+      "path": "audio/CONFIG",
       "url": "https://alldaygithub.github.io/ntmobile/files/audio/CONFIG/AudioEventHistory.txt",
       "gpu": "all"
     },
     {
       "name": "BankLkup.dat",
       "size": 8520,
-      "path": "audio/CONFIG/BankLkup.dat",
+      "path": "audio/CONFIG",
       "url": "http://gta-raygus.com/API/MOBILE/files/audio/CONFIG/BankLkup.dat",
       "gpu": "all"
     },
     {
       "name": "BankSlot.dat",
       "size": 216902,
-      "path": "audio/CONFIG/BankSlot.dat",
+      "path": "audio/CONFIG",
       "url": "http://gta-raygus.com/API/MOBILE/files/audio/CONFIG/BankSlot.dat",
       "gpu": "all"
     },
     {
       "name": "EventVol.dat",
       "size": 45402,
-      "path": "audio/CONFIG/EventVol.dat",
+      "path": "audio/CONFIG",
       "url": "http://gta-raygus.com/API/MOBILE/files/audio/CONFIG/EventVol.dat",
       "gpu": "all"
     },
     {
       "name": "PakFiles.dat",
       "size": 468,
-      "path": "audio/CONFIG/PakFiles.dat",
+      "path": "audio/CONFIG",
       "url": "http://gta-raygus.com/API/MOBILE/files/audio/CONFIG/PakFiles.dat",
       "gpu": "all"
     },
     {
       "name": "SOUNDINF.DAT",
       "size": 746760,
-      "path": "audio/CONFIG/SOUNDINF.DAT",
+      "path": "audio/CONFIG",
       "url": "http://gta-raygus.com/API/MOBILE/files/audio/CONFIG/SOUNDINF.DAT",
       "gpu": "all"
     },
     {
       "name": "StrmPaks.dat",
       "size": 272,
-      "path": "audio/CONFIG/StrmPaks.dat",
+      "path": "audio/CONFIG",
       "url": "http://gta-raygus.com/API/MOBILE/files/audio/CONFIG/StrmPaks.dat",
       "gpu": "all"
     },
     {
       "name": "TrakLkup.dat",
       "size": 23064,
-      "path": "audio/CONFIG/TrakLkup.dat",
+      "path": "audio/CONFIG",
       "url": "http://gta-raygus.com/API/MOBILE/files/audio/CONFIG/TrakLkup.dat",
       "gpu": "all"
     },
     {
       "name": "TRKHEAD.DAT",
       "size": 15506696,
-      "path": "audio/CONFIG/TRKHEAD.DAT",
+      "path": "audio/CONFIG",
       "url": "http://gta-raygus.com/API/MOBILE/files/audio/CONFIG/TRKHEAD.DAT",
       "gpu": "all"
     },
     {
       "name": "FEET.osw",
       "size": 138118,
-      "path": "audio/SFX/FEET.osw",
+      "path": "audio/SFX",
       "url": "http://gta-raygus.com/API/MOBILE/files/audio/SFX/FEET.osw",
       "gpu": "all"
     },
     {
       "name": "FEET.osw.idx",
       "size": 1220,
-      "path": "audio/SFX/FEET.osw.idx",
+      "path": "audio/SFX",
       "url": "http://gta-raygus.com/API/MOBILE/files/audio/SFX/FEET.osw.idx",
       "gpu": "all"
     },
     {
       "name": "GENRL.osw",
       "size": 9362373,
-      "path": "audio/SFX/GENRL.osw",
+      "path": "audio/SFX",
       "url": "http://gta-raygus.com/API/MOBILE/files/audio/SFX/GENRL.osw",
       "gpu": "all"
     },
     {
       "name": "GENRL.osw.idx",
       "size": 20868,
-      "path": "audio/SFX/GENRL.osw.idx",
+      "path": "audio/SFX",
       "url": "http://gta-raygus.com/API/MOBILE/files/audio/SFX/GENRL.osw.idx",
       "gpu": "all"
     },
     {
       "name": "PAIN_A.osw",
       "size": 3247335,
-      "path": "audio/SFX/PAIN_A.osw",
+      "path": "audio/SFX",
       "url": "http://gta-raygus.com/API/MOBILE/files/audio/SFX/PAIN_A.osw",
       "gpu": "all"
     },
     {
       "name": "PAIN_A.osw.idx",
       "size": 12836,
-      "path": "audio/SFX/PAIN_A.osw.idx",
+      "path": "audio/SFX",
       "url": "http://gta-raygus.com/API/MOBILE/files/audio/SFX/PAIN_A.osw.idx",
       "gpu": "all"
     },
     {
       "name": "SCRIPT.osw",
       "size": 99239609,
-      "path": "audio/SFX/SCRIPT.osw",
+      "path": "audio/SFX",
       "url": "http://gta-raygus.com/API/MOBILE/files/audio/SFX/SCRIPT.osw",
       "gpu": "all"
     },
     {
       "name": "SCRIPT.osw.idx",
       "size": 219236,
-      "path": "audio/SFX/SCRIPT.osw.idx",
+      "path": "audio/SFX",
       "url": "http://gta-raygus.com/API/MOBILE/files/audio/SFX/SCRIPT.osw.idx",
       "gpu": "all"
     },
     {
       "name": "SPC_EA.osw",
       "size": 40734626,
-      "path": "audio/SFX/SPC_EA.osw",
+      "path": "audio/SFX",
       "url": "http://gta-raygus.com/API/MOBILE/files/audio/SFX/SPC_EA.osw",
       "gpu": "all"
     },
     {
       "name": "SPC_EA.osw.idx",
       "size": 116644,
-      "path": "audio/SFX/SPC_EA.osw.idx",
+      "path": "audio/SFX",
       "url": "http://gta-raygus.com/API/MOBILE/files/audio/SFX/SPC_EA.osw.idx",
       "gpu": "all"
     },
     {
       "name": "SPC_FA.osw",
       "size": 35259227,
-      "path": "audio/SFX/SPC_FA.osw",
+      "path": "audio/SFX",
       "url": "http://gta-raygus.com/API/MOBILE/files/audio/SFX/SPC_FA.osw",
       "gpu": "all"
     },
     {
       "name": "SPC_FA.osw.idx",
       "size": 87716,
-      "path": "audio/SFX/SPC_FA.osw.idx",
+      "path": "audio/SFX",
       "url": "http://gta-raygus.com/API/MOBILE/files/audio/SFX/SPC_FA.osw.idx",
       "gpu": "all"
     },
