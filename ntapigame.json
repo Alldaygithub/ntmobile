@@ -8,13 +8,6 @@
       "gpu": "all"
     },
     {
-      "name": "cuts.img",
-      "size": 270096384,
-      "path": "anim/cuts.img",
-      "url": "http://gta-raygus.com/API/MOBILE/files/anim/cuts.img",
-      "gpu": "all"
-    },
-    {
       "name": "ped.ifp",
       "size": 1433248,
       "path": "anim/ped.ifp",
